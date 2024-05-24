@@ -3,6 +3,7 @@ import plotting
 
 
  #Function to accept user input , number of hours spend in each day ,and a Button to plot the data
+#Hints -Use label,entry box and Button widgets
 
 def run_app():
 
